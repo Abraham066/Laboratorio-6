@@ -1,19 +1,19 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(255, 196, 69);
 }
 
 
 
 #pagina1 {
-    background-color: darkorange;
+    background-color: rgb(128, 95, 247);
 }
 
 #pagina2 {
-    background-color: rgb(241, 49, 241);
+    background-color: rgb(49, 156, 255);
 }
 
 #pagina3 {
-    background-color: rgb(35, 150, 31);
+    background-color: rgb(46, 233, 87);
 }
 
 
@@ -41,7 +41,7 @@ body {
 #inicio p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    text-align: center;
+    text-align: justify;
     padding-top: 20px;
 
 }
